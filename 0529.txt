@@ -1,7 +1,21 @@
 <<<<<<< .mine
+<<<<<<< .mine
 今天星期五猴子去跳舞
 eisjdfisdjsdfiopjdfssdfjsdfopjsdfpjsdfpsdfpsdfosdfjop
 =======
 今天星期五猴子去跳舞
+
+小潘潘進來了
+
+>>>>>>> .theirs
+=======
+<<<<<<< .mine
+今天星期五猴子去跳舞
+eisjdfisdjsdfiopjdfssdfjsdfopjsdfpjsdfpsdfpsdfosdfjop
+=======
+今天星期五猴子去跳舞
+
+>>>>>>> .theirs
+
 
 >>>>>>> .theirs
