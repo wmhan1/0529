@@ -1,4 +1,27 @@
 <<<<<<< .mine
+今天星期五猴子去跳舞
+10不要看眾量級
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+<<<<<<< .mine
 <<<<<<< .mine
 今天星期五猴子去跳舞
 eisjdfisdjsdfiopjdfssdfjsdfopjsdfpjsdfpsdfpsdfosdfjop
@@ -18,4 +41,5 @@ eisjdfisdjsdfiopjdfssdfjsdfopjsdfpjsdfpsdfpsdfosdfjop
 >>>>>>> .theirs
 
 
+>>>>>>> .theirs
 >>>>>>> .theirs
